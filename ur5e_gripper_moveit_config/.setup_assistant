@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: pcl_perception
+    relative_path: urdf/ur5e_robotiq.urdf.xacro
+  srdf:
+    relative_path: config/ur5e_robotiq.srdf
+  package_settings:
+    author_name: ""
+    author_email: ""
+    generated_timestamp: 1790835219
